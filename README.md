@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://gauravskumar200.github.io/portfolio/](https://gauravskumar200.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://googiehammer.github.io/portfolio/](https://gauravskumar200.github.io/portfolio/)
 
 - 📫 How to reach me **gauravskumar2003@gmail.com**
 
